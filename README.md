@@ -12,7 +12,7 @@ Supported Versions
 
 
 ## LICENCE
-This mod was created and organized by - Derek  
+This mod was created and organized by - Midori 
   
 　　
 ```
@@ -45,6 +45,6 @@ The following License is applied to Hadizia.
 5. **Other Terms and Conditions**.
   * This License and the Licensor do not require inheritance of the license nor indicating the credits. All terms of this license is not always applied to Remixed Material. **However**, all Remixed Materials must be made and used for NonCommercial purposes only.
   
-Copyright (C) 2020 Hadizia - Derek - DollEyedJunkie
+Copyright (C) 2020 Hadizia - Midori 
 ```
 
