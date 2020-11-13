@@ -2,6 +2,8 @@ HADIZIA (MC Version 1.15.2)
 ===
 
 This mod features animal fairies that help you with a variety of things like healing, fighting monsters, collecting items. Other than that, it will also have new blocks, furniture, decor, and animals.There will be a special crafting table for crafting all the furniture and decorations and you can craft the rest of the mod items in a normal crafting table. Like foods, potions, etc. This mod will be for Minecraft version 1.15.2 forge because that version is missing out on home stuff, animals, and magic.
+
+Visit the mods website for more information! - https://schmitzkuriderek.wixsite.com/hadizia
  
 
 ---
