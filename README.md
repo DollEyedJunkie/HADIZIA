@@ -8,9 +8,9 @@ Visit the mods website for more information! - https://schmitzkuriderek.wixsite.
 
 ---
 
-Supported Versions
-* Minecraft 1.15.2 
-* Minecraft Forge 1.15.2
+✧･ﾟ: *✧･ﾟ:*Supported Versions*:･ﾟ✧*:･ﾟ✧
+✧ Minecraft 1.15.2 
+✧ Minecraft Forge 1.15.2
 
 
 ## LICENCE
@@ -25,27 +25,27 @@ The following License is applied to Hadizia.
 ## License
 
 1. **Definitions**.
-  * **Licensed Material** means all material to which the Licensor applied this License.
-  * **Remixed Material** means all material which is made by modifying/remixing Licensed Material.
-  * **NonCommercial** means not primarily intended for or directed towards commercial advantage or monetary compensation.
+  ✧ **Licensed Material** means all material to which the Licensor applied this License.
+  ✧ **Remixed Material** means all material which is made by modifying/remixing Licensed Material.
+  ✧ **NonCommercial** means not primarily intended for or directed towards commercial advantage or monetary compensation.
 
 2. **License Grant**. You can:
-  * Use this MOD in your movies. You can also upload the movies to any services(YouTube, niconico, etc.).
-  * Add custom mod textures
-  * Add this mod to modpacks (With Credit)
+  ✧ Use this MOD in your movies. You can also upload the movies to any services(YouTube, niconico, etc.).
+  ✧ Add custom mod textures
+  ✧ Add this mod to modpacks (With Credit)
   
   
   **License Rules**. You cannot:
-  * Copy/redistribute this MOD without owners permission
-  * Alter/Steal original models
+  ✧ Copy/redistribute this MOD without owners permission
+  ✧ Alter/Steal original models
 
 3. **License Conditions (For redistributing with owners permission)**. You must use this MOD under the following terms:
-  * You can use this MOD  **ONLY for NonCommercial purposes**.
+  ✧ You can use this MOD  **ONLY for NonCommercial purposes**.
 
 4. **Disclaimer**. The author disclaims all liability for damages resulting from any use to the fullest extent possible. Use this MOD **AT YOUR OWN RISK**.
 
 5. **Other Terms and Conditions**.
-  * This License and the Licensor do not require inheritance of the license nor indicating the credits. All terms of this license is not always applied to Remixed Material. **However**, all Remixed Materials must be made and used for NonCommercial purposes only.
+  ✧ This License and the Licensor do not require inheritance of the license nor indicating the credits. All terms of this license is not always applied to Remixed Material. **However**, all Remixed Materials must be made and used for NonCommercial purposes only.
   
 Copyright (C) 2020 Hadizia - Midori 
 ```
